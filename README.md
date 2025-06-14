@@ -5,4 +5,5 @@ A curated set of introductory and intermediate-level cheminformatics tutorials f
 **Google Colab Notebooks**
 
 [1-A short introduction to RDKit](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/01_Intro_ChemInfo.ipynb)
+[2-Molecular Descriptors](https://colab.research.google.com/github/sofia-sunny/Intermediate_Tutorials/blob/main/01_substructure_search.ipynb)
 
