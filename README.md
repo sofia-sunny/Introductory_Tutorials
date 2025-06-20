@@ -9,5 +9,6 @@ A curated set of introductory cheminformatics tutorials for beginners interested
 [2-Molecular Descriptors](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/02_Molecular_Descriptors.ipynb)
 
 [3-Relationship between Molecular Descriptors and Activity](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/03_Descriptor_Activity_Relation.ipynb)
+
 [4-Molecular Similarity](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/04_Molecular_Similarity.ipynb)
 
