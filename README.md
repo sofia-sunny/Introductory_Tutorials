@@ -19,5 +19,5 @@ A curated set of introductory cheminformatics tutorials for beginners interested
 [6-Similarity Search with Pubchempy](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/06_Similarity_Search_with_Pubchempy.ipynb)
 
 
-[5-Substructure Search](https://colab.research.google.com/github/sofia-sunny/Short_Introductory_Tutorials/blob/main/05_substructure_search.ipynb)
+[7-SMART and Substructure Search](https://colab.research.google.com/github/sofia-sunny/Short_Introductory_Tutorials/blob/main/07_SMART_substructure_search.ipynb)
 
