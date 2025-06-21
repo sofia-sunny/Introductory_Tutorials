@@ -4,7 +4,7 @@ A curated set of introductory cheminformatics tutorials for beginners interested
 
 **Google Colab Notebooks**
 
-[1-introduction to RDKit](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/01_Intro_ChemInfo.ipynb)
+[1-A Short introduction to RDKit](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/01_Intro_ChemInfo.ipynb)
 
 [2-Molecular Descriptors](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/02_Molecular_Descriptors.ipynb)
 
