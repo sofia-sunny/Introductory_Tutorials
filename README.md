@@ -14,6 +14,9 @@ A curated set of introductory cheminformatics tutorials for beginners interested
 
 [4-Molecular Similarity](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/04_Molecular_Similarity.ipynb)
 
+[5-Pubchem and Data Retrieval](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/05_Pubchem_Data_Retrieval.ipynb)
+
+
 [6-Similarity Search with Pubchempy](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/06_Similarity_Search_with_Pubchempy.ipynb)
 
 
