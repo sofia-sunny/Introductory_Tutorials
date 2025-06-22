@@ -23,3 +23,5 @@ A curated set of introductory cheminformatics tutorials for beginners interested
 
 [8-Simple QSAR](https://colab.research.google.com/github/sofia-sunny/Short_Introductory_Tutorials/blob/main/08_Simple_QSAR.ipynb)
 
+[9-Drug Type Classification](https://colab.research.google.com/github/sofia-sunny/Short_Introductory_Tutorials/blob/main/09_Drug_Type_Classification.ipynb)
+
