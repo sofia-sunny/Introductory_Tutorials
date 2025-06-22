@@ -1,6 +1,8 @@
-##  Introductory Cheminformatics Tutorials with Python
+##  Introductory Cheminformatics Tutorials 
 
-A curated set of introductory cheminformatics tutorials for beginners interested in working with chemical data using Python. The tutorials are organized in a **progressive sequence to make learning easy and intuitive**.
+A curated set of introductory cheminformatics tutorials designed for beginners working with chemical data. 
+
+These tutorials follow a **progressive sequence to ensure an easy and intuitive learning experience** and assume prior knowledge of basic Python and machine learning concepts.
 
 **Google Colab Notebooks**
 
