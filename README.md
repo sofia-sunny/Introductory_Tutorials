@@ -4,7 +4,8 @@ A curated set of introductory cheminformatics tutorials designed for beginners w
 
 These tutorials follow a **progressive sequence to ensure an easy and intuitive learning experience** and assume prior knowledge of basic Python and machine learning concepts.
 
-**Google Colab Notebooks**
+
+### **Google Colab Notebooks**
 
 [1-A Short introduction to RDKit](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials/blob/main/01_Intro_ChemInfo.ipynb)
 
