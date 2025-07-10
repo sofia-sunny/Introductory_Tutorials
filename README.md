@@ -28,4 +28,5 @@ These tutorials follow a **progressive sequence to ensure an easy and intuitive 
 
 [9-Drug Type Classification](https://colab.research.google.com/github/sofia-sunny/Short_Introductory_Tutorials/blob/main/09_Drug_Type_Classification.ipynb)
 
-[10- Extracting ChEMBL Data](https://colab.research.google.com/github/sofia-sunny/Atomic_Neural-Network/blob/main/10_Extracting__ChEMBL_Data.ipynb)
+[10- Extracting ChEMBL Data](https://colab.research.google.com/github/sofia-sunny/Introductory_Tutorials
+/blob/main/10_Extracting__ChEMBL_Data.ipynb)
